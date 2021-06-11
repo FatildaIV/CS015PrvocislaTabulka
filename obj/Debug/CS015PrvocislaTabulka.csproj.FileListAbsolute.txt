@@ -1,0 +1,5 @@
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS015PrvocislaTabulka\bin\Debug\CS015PrvocislaTabulka.exe.config
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS015PrvocislaTabulka\bin\Debug\CS015PrvocislaTabulka.exe
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS015PrvocislaTabulka\bin\Debug\CS015PrvocislaTabulka.pdb
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS015PrvocislaTabulka\obj\Debug\CS015PrvocislaTabulka.exe
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS015PrvocislaTabulka\obj\Debug\CS015PrvocislaTabulka.pdb
